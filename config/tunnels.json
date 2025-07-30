@@ -1,0 +1,10 @@
+[
+  {
+    "name": "main-tunnel",
+    "host": "your.vps.ip",
+    "port": 22,
+    "username": "youruser",
+    "key_path": "id_rsa",
+    "local_port": 1080
+  }
+]
